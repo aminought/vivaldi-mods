@@ -1,0 +1,11 @@
+/****************** Hide header *******************/
+
+#header {
+    display: none !important;
+}
+
+/****************** Decrease size of icons in toolbar *******************/
+
+.toolbar-addressbar .button-toolbar svg, .toolbar-mailbar .button-toolbar svg {
+    width: 22px !important;
+}
